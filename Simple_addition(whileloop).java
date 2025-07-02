@@ -39,7 +39,7 @@ public class TryingLoop_again1 {
                 System.out.println(" correct ");
                 Count_Correct_Answers++; 
             } else if (count > Questions ){
-                System.out.println(" it's okay" + "try again");
+                System.out.println(" it's okay" + "try again next time");
             }
             
                 
